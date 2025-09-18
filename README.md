@@ -2,7 +2,9 @@
 
 Este projeto implementa um agente inteligente de IA voltado para automação de respostas e suporte a dúvidas frequentes do setor de Recursos Humanos (RH) de uma empresa.
 
-<img width="415" height="480" alt="workflow gemini langchain" src="https://github.com/user-attachments/assets/3c27a866-761b-43da-914d-82f2546f40e6" />
+<p align="center">
+  <img width="415" height="480" src="https://github.com/user-attachments/assets/3c27a866-761b-43da-914d-82f2546f40e6" alt="workflow gemini langchain">
+</p>
 
 
 O agente é capaz de:
